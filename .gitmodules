@@ -1,0 +1,3 @@
+[submodule "presentation/thrift/tutorial/laravel"]
+	path = presentation/thrift/tutorial/laravel
+	url = git@github.com:laravel/laravel.git

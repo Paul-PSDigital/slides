@@ -9,7 +9,7 @@ import HashHistory from "react-router/lib/HashHistory";
 import Alt from "alt";
 import Flux from "./src/flux/alt";
 
-import Deck from "./presentation/deck";
+import Deck from "./presentation/thrift/deck";
 import config from "./presentation/config";
 
 require("normalize.css");
